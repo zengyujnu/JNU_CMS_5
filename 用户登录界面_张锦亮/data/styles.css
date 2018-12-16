@@ -10,7 +10,21 @@
   line-height:normal;
   text-transform:none;
 }
-.placeholder {
+.box_1 {
+}
+.box_2 {
+}
+.box_3 {
+}
+.image {
+}
+.button {
+}
+.primary_button {
+  color:#FFFFFF;
+}
+.link_button {
+  color:#169BD5;
 }
 ._一级标题 {
   font-family:'Arial Normal', 'Arial';
@@ -53,45 +67,43 @@
   font-size:10px;
   text-align:left;
 }
+.label {
+  font-size:14px;
+  text-align:left;
+}
 ._文本段落 {
   text-align:left;
 }
-.line {
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+._流程形状 {
+}
+._连接 {
+}
+.form_hint {
+  color:#999999;
+}
+.form_disabled {
 }
 ._表单提示 {
   color:#999999;
 }
 ._表单禁用 {
 }
-.box_1 {
+.icon {
 }
-.box_2 {
+.placeholder {
 }
-.image {
-}
-.box_3 {
+.line {
 }
 .droplist {
   color:#000000;
   text-align:left;
 }
-.form_disabled {
-}
-.text_field {
-  color:#000000;
-  text-align:left;
-}
-.form_hint {
-  color:#999999;
-}
 .list_box {
   color:#000000;
-  text-align:left;
-}
-.button {
-}
-.label {
-  font-size:14px;
   text-align:left;
 }
 .text_area {
@@ -99,5 +111,16 @@
   text-align:left;
 }
 .radio_button {
+  text-align:left;
+}
+.flow_shape {
+}
+.table_cell {
+}
+.menu_item {
+}
+.arrow {
+}
+.tree_node {
   text-align:left;
 }
